@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__
+Dataset/
+pickle/
+pickles/
+model_tokenizers_weights_and_json/
+1 Expt with no embed/
+2.1 Expt with embd SPACY/
+4 ELMO/
+other/
