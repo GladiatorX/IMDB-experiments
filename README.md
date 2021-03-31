@@ -1,7 +1,7 @@
 # IMDB-experiments
 Text Classification experiments on IMDB dataset using pretrained word embeddings (Word2Vec, Glove, FasText ) and Neural Network architecture like like CNN, RNN.
 
-* Refer XXXXX blog post form details.
+* Refer https://saurabhk30.medium.com/text-classification-on-imdb-dataset-using-word-embedding-5ce301b23816 blog post form details.
 
 # Steps followed for Text Classification
 
